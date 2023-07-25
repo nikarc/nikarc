@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikarc&count_private=true&show_icons=true&&theme=onedark" />
+  <img align="center" src="https://my-github-stats-five.vercel.app/api?username=nikarc&count_private=true&show_icons=true&&theme=onedark" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikarc&theme=onedark&layout=compact" />
